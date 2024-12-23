@@ -1,0 +1,9 @@
+https://github.com/mahdihafsi/androidStudio/tree/67eb145e1a366a2c38e5e4045a43fe62cc1fc1af/TP1%20avd/doc //TP1 AVD
+https://github.com/mahdihafsi/androidStudio/tree/67eb145e1a366a2c38e5e4045a43fe62cc1fc1af/TP2_hello_world  //TP2_hello_world 
+https://github.com/mahdihafsi/androidStudio/tree/67eb145e1a366a2c38e5e4045a43fe62cc1fc1af/TP3_mvc	//TP3_mvc
+https://github.com/mahdihafsi/androidStudio/tree/67eb145e1a366a2c38e5e4045a43fe62cc1fc1af/TP4_serialization	//TP4_serialization
+https://github.com/mahdihafsi/androidStudio/tree/67eb145e1a366a2c38e5e4045a43fe62cc1fc1af/TP5_Sqlite	//TP5_Sqlite
+https://github.com/mahdihafsi/androidStudio/tree/67eb145e1a366a2c38e5e4045a43fe62cc1fc1af/TP6_intents	//TP6_intents
+https://github.com/mahdihafsi/androidStudio/tree/67eb145e1a366a2c38e5e4045a43fe62cc1fc1af/TP7_ADB	//TP7_ADB
+https://github.com/mahdihafsi/androidStudio/tree/67eb145e1a366a2c38e5e4045a43fe62cc1fc1af/TP8_Services	//TP8_Services
+https://github.com/mahdihafsi/androidStudio/tree/67eb145e1a366a2c38e5e4045a43fe62cc1fc1af/TP9_RecyclerView	//TP9_RecyclerView
